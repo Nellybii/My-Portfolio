@@ -64,6 +64,11 @@ const Skills = () => {
             </Grid>
             <Grid item xs={6} sm={3}>
               <Paper sx={{ p: 2, textAlign: 'center', backgroundColor: '#00796b', color: 'white' }}>
+                Dart $ Flutter
+              </Paper>
+            </Grid>
+            <Grid item xs={6} sm={3}>
+              <Paper sx={{ p: 2, textAlign: 'center', backgroundColor: '#00796b', color: 'white' }}>
                 MySQL
               </Paper>
             </Grid>
